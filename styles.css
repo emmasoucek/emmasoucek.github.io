@@ -1,12 +1,12 @@
 .container {
-    display: grid;
-    place-items: center;
+  display:grid;
+  place-items: center;
 }
 
 figure.image {
-    width: 18%;
+  width:18%;
 }
 
 img {
-    width: 100%;
+  width: 100%;
 }
