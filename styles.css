@@ -9,9 +9,10 @@
         font-weight: bold;
       }
 body {
-  width: 7em;
+  width: 5em;
   text-align: center;
   float: left;
+  margin-left: -2.5em;
 }
 
 figure.image {
