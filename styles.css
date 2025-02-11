@@ -9,12 +9,7 @@
         font-weight: bold;
       }
 body {
-  list-style-type: none;
-  float: left
-  width: 5em;
   text-align: center;
-  margin-left: -2.5em;
-  margin-right: 2px;
 }
 
 figure.image {
