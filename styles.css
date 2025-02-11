@@ -9,9 +9,10 @@
         font-weight: bold;
       }
 body {
+  list-style-type: none;
+  float: left
   width: 5em;
   text-align: center;
-  float: left;
   margin-left: -2.5em;
   margin-right: 2px;
 }
