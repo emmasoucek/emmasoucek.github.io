@@ -3,6 +3,10 @@
   place-items: center;
 }
 
+.p1 {
+  font-family: san serif;
+}
+
 figure.image {
   width:70%;
 }
