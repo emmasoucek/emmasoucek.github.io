@@ -13,6 +13,7 @@ body {
   text-align: center;
   float: left;
   margin-left: -2.5em;
+  margin-right: 2px;
 }
 
 figure.image {
