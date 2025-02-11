@@ -3,9 +3,10 @@
   place-items: center;
 }
 
-.p1 {
-  font-family: sans-serif, Arial, Helvetica;
-}
+  h1 {
+        font-family: sans-serif;
+        font-size: small;
+      }
 
 figure.image {
   width:70%;
