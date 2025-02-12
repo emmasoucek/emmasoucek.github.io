@@ -2,6 +2,18 @@
   display:grid;
   place-items: center;
 }
+/* vertMenu.css */
+/* unindent each unordered list */
+
+#menu ul {
+  margin-left: -2.5em;
+}
+#menu li {
+  list-style-type: none;
+  float: left;
+  width: 10em;
+  text-align: center;
+}
 
   body {
         font-family: sans-serif;
